@@ -1,0 +1,50 @@
+html {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+}
+
+body {
+  font-family: ‘Open Sans’, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+nav,
+section,
+article,
+p,
+ul,
+li,
+table,
+thead,
+tr,
+th,
+tbody,
+td,
+figure,
+figcaption,
+img,
+textarea,
+input {
+  margin: 0;
+  padding: 0;
+  font-weight: 100%;
+  list-style: none;
+}
+
+abbr {
+  text-decoration: none;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
