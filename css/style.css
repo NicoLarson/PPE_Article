@@ -1,7 +1,114 @@
-/* Theme */
+/* Thème */
 :root {
 }
 
+/* First Mobile*/
 /* Header */
+header {
+  display: flex;
+  flex-direction: column;
+}
+header img {
+  width: 6rem;
+  height: 6rem;
+  margin: 0 auto;
+}
+header ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  padding: 2rem;
+}
 /* Main */
+main section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 16rem;
+  background: url("https://place-hold.it/200x200");
+}
+main ul {
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+main ul li {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-top: 4rem;
+  border: 1px solid #222;
+}
+main ul li:first-child {
+  margin-top: 2rem;
+}
+main ul li:last-child {
+  margin-top: 2rem;
+}
+main ul li button {
+  cursor: pointer;
+}
+main ul li img {
+  height: 100%;
+  width: 100%;
+}
+main ul li article {
+  padding: 2rem;
+}
+main ul li article h3 {
+  padding: 1rem 0;
+}
+main ul li article p {
+  text-align: justify;
+}
 /* Footer */
+footer {
+  padding: 1rem 2rem;
+}
+footer section {
+  padding: 2rem 0;
+}
+
+@media screen and (min-width: 620px) {
+  /* Header */
+  header {
+    flex-direction: row;
+    padding: 2rem;
+  }
+  header img {
+    margin: 0;
+  }
+  header nav {
+    width: 100%;
+  }
+  /* Main */
+  main section {
+    height: 44rem;
+  }
+  main ul li {
+    flex-direction: row;
+  }
+  main ul li:nth-child(2n + 1) {
+    flex-direction: row-reverse;
+  }
+  main ul li img {
+    height: 20rem;
+    width: 20rem;
+  }
+  main ul li:last-child {
+    width: 20rem;
+    margin: 2rem auto 0;
+    border: 0;
+  }
+  /* Footer */
+  footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+padding: 4rem 2rem;
+  }
+  footer img{
+    height: 4rem;
+    width: 4rem;
+  }
+}
