@@ -1,0 +1,98 @@
+{
+    "articles": [
+        {
+            "id":1,
+            "title": "Titre de l'article 1",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_butter.jpeg",
+            "category": "health"
+        },
+        {
+            "id":2,
+            "title": "Titre de l'article 2",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_wood.jpeg",
+            "category": "food"
+        },
+        {
+            "id":3,
+            "title": "Titre de l'article 3",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_butter.jpeg",
+            "category": "food"
+        },
+        {
+            "id":4,
+            "title": "Titre de l'article 4",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_wood.jpeg",
+            "category": "diet"
+        }, {
+            "id":5,
+            "title": "Titre de l'article 5",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_butter.jpeg",
+            "category": "health"
+        },
+        {
+            "id":6,
+            "title": "Titre de l'article 6",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_wood.jpeg",
+            "category": "health"
+        },
+        {
+            "id":7,
+            "title": "Titre de l'article 7",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_butter.jpeg",
+            "category": "diet"
+        },
+        {
+            "id":8,
+            "title": "Titre de l'article 8",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_wood.jpeg",
+            "category": "health"
+        }, {
+            "id":9,
+            "title": "Titre de l'article 9",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_butter.jpeg",
+            "category": "diet"
+        },
+        {
+            "id":10,
+            "title": "Titre de l'article 10",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_wood.jpeg",
+            "category": "health"
+        },
+        {
+            "id":11,
+            "title": "Titre de l'article 11",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_butter.jpeg",
+            "category": "diet"
+        },
+        {
+            "id":12,
+            "title": "Titre de l'article 12",
+            "date": "Date de l'article",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatibus minus facere, quibusdam sed rem. Sed, veritatis optio fuga et reprehenderit doloribus, neque maxime minima beatae iure eum earum magni ex nihil accusantium alias necessitatibus, similique sapiente expedita assumenda quo.",
+            "img": "snail_wood.jpeg",
+            "category": "diet"
+        }
+    ]
+}
